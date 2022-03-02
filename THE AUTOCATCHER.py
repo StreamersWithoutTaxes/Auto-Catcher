@@ -22,7 +22,7 @@ async def on_ready():
     print("Main user activated: {0.user}".format(client))
 
 #channel ids
-ID = ['945876187572490262']
+ID = ['920729529566236722']
 #ID2 = etcetc
 
 @client.event
