@@ -1,4 +1,5 @@
-# discord script
+#3/2/2022
+#discord script
 import discord
 # to randomize time
 import random
